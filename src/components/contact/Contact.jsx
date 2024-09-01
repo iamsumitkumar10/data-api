@@ -2,9 +2,8 @@ import "./contact.css";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import.meta.env;
-import React, { useRef, useState } from "react";
+import React, { useRef,useState } from "react";
 import emailjs from "@emailjs/browser";
- 
 export default function Contact() {
   
   const publicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY

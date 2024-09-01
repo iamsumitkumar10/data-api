@@ -8,18 +8,12 @@ import Home from "./components/Home/Home.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import Hireme from "./components/Hireme/Hireme.jsx";
 
- 
-
 function App() {
-  
-
-
   return (
     <>
       <Header />
       <Home />
       <About />
-   
       <Contact />
       <Hireme />
       <Footer />
