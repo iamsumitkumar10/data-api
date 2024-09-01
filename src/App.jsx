@@ -6,7 +6,7 @@ import About from "./components/about/About.jsx";
 import Contact from "./components/contact/Contact.jsx";
 import Home from "./components/Home/Home.jsx";
 import Footer from "./components/Footer/Footer.jsx";
-import Hireme from "./components/Hireme/Hireme.jsx";
+import Hireme from "./components/hireme/Hireme.jsx";
 
 function App() {
   return (
